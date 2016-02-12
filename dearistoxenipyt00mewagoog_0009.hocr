@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dearistoxenipyt00mewagoog_0009.png"; bbox 0 0 3200 5050; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 593 1874 2132 2196">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 593 1874 2132 2196">
+     <span class='ocr_line' id='line_1_1' title="bbox 798 1874 1947 2015; baseline 0.003 -28"><span class='ocrx_word' id='word_1_1' title='bbox 798 1876 1405 1990; x_wconf 76' lang='lat' dir='ltr'>Parentibus</span> <span class='ocrx_word' id='word_1_2' title='bbox 1482 1874 1947 2015; x_wconf 73' lang='lat' dir='ltr'>optumis</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 593 2119 2132 2196; baseline -0.001 -2"><span class='ocrx_word' id='word_1_3' title='bbox 593 2129 788 2195; x_wconf 77' lang='lat' dir='ltr'>diem</span> <span class='ocrx_word' id='word_1_4' title='bbox 837 2129 1044 2196; x_wconf 83' lang='lat' dir='ltr'><strong>XXII.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1093 2129 1368 2196; x_wconf 84' lang='lat' dir='ltr'>mensis</span> <span class='ocrx_word' id='word_1_6' title='bbox 1414 2119 1588 2195; x_wconf 82' lang='lat' dir='ltr'>J&#39;uui</span> <span class='ocrx_word' id='word_1_7' title='bbox 1637 2129 1807 2196; x_wconf 78' lang='lat' dir='ltr'>anni</span> <span class='ocrx_word' id='word_1_8' title='bbox 1855 2128 2132 2196; x_wconf 75' lang='lat' dir='ltr'><strong>ncmv</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1043 2331 1695 2418">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1043 2331 1695 2418">
+     <span class='ocr_line' id='line_1_3' title="bbox 1043 2331 1695 2418; baseline 0 -16"><span class='ocrx_word' id='word_1_9' title='bbox 1043 2331 1287 2402; x_wconf 75' lang='lat' dir='ltr'><strong>festum</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1343 2331 1695 2418; x_wconf 77' lang='lat' dir='ltr'><strong>agentibus</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1331 2538 1390 2603">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1331 2538 1390 2603">
+     <span class='ocr_line' id='line_1_4' title="bbox 1331 2538 1390 2603; baseline -0.017 0"><span class='ocrx_word' id='word_1_11' title='bbox 1331 2538 1390 2603; x_wconf 87' lang='lat' dir='ltr'><strong>S.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
